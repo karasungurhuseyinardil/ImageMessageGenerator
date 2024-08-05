@@ -1,0 +1,10 @@
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\bin\Debug\ImageMessageGenerator.exe.config
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\bin\Debug\ImageMessageGenerator.exe
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\bin\Debug\ImageMessageGenerator.pdb
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.csproj.AssemblyReference.cache
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.Form1.resources
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.Properties.Resources.resources
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.csproj.GenerateResource.cache
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.exe
+C:\Users\Monster\OneDrive\Masaüstü\ImageMessageGenerator\ImageMessageGenerator\ImageMessageGenerator\obj\Debug\ImageMessageGenerator.pdb
