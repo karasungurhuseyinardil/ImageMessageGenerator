@@ -1,0 +1,1 @@
+This Windows Forms application is a tool where users can select and view an image file, add and customize a text message and add text to the image with selected font and color settings. Users can also send messages through the app by sending the text.
